@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">P2P Chat</string>
+    
+    <!-- Main Activity -->
+    <string name="scan_for_peers">Scan for Peers</string>
+    <string name="no_peers_found">No peers found</string>
+    <string name="tap_to_scan">Tap the scan button to discover nearby devices</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Connection States -->
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connected">Connected</string>
+    <string name="connection_failed">Connection Failed</string>
+    
+    <!-- Chat Activity -->
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="you">You</string>
+    <string name="peer">Peer</string>
+    <string name="message_sent">Message sent</string>
+    <string name="message_failed">Failed to send message</string>
+    <string name="typing">typing…</string>
+    
+    <!-- AI Features -->
+    <string name="ai_suggestions">AI Suggestions</string>
+    <string name="smart_reply">Smart Reply</string>
+    <string name="sentiment_analysis">Sentiment Analysis</string>
+    <string name="writing_assistance">Writing Assistance</string>
+    <string name="generate_content">Generate Content</string>
+    
+    <!-- Security -->
+    <string name="biometric_auth_title">Authenticate</string>
+    <string name="biometric_auth_subtitle">Use your biometric to unlock secure features</string>
+    <string name="biometric_auth_cancel">Cancel</string>
+    <string name="encryption_enabled">End-to-end encryption enabled</string>
+    <string name="secure_connection">Secure Connection</string>
+    
+    <!-- Permissions -->
+    <string name="permissions_required_title">Permissions Required</string>
+    <string name="permissions_required_message">This app requires location and network permissions to discover and connect to nearby devices.</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="exit_app">Exit App</string>
+    
+    <!-- Settings -->
+    <string name="theme_settings">Theme Settings</string>
+    <string name="security_settings">Security Settings</string>
+    <string name="ai_settings">AI Settings</string>
+    <string name="network_settings">Network Settings</string>
+    <string name="about">About</string>
+    
+    <!-- Theme Options -->
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="auto_theme">Auto Theme</string>
+    <string name="time_based_theme">Time-based Theme</string>
+    <string name="mood_adaptive_theme">Mood Adaptive Theme</string>
+    <string name="dynamic_colors">Dynamic Colors</string>
+    
+    <!-- Notifications -->
+    <string name="channel_messages_name">Messages</string>
+    <string name="channel_messages_description">New message notifications</string>
+    <string name="channel_connections_name">Connections</string>
+    <string name="channel_connections_description">Connection status updates</string>
+    <string name="channel_ai_assistant_name">AI Assistant</string>
+    <string name="channel_ai_assistant_description">AI-powered suggestions and insights</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Network error occurred</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_permission">Permission denied</string>
+    <string name="error_unknown">Unknown error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Connection Status Dialog -->
+    <string name="connection_status_title">Connection Details</string>
+    <string name="peer_count">Connected Peers: %d</string>
+    <string name="network_type">Network Type: %s</string>
+    <string name="encryption_status">Encryption: %s</string>
+    <string name="data_usage">Data Usage: %s</string>
+    
+    <!-- AI Content Types -->
+    <string name="emoji_story">Emoji Story</string>
+    <string name="poem">Poem</string>
+    <string name="joke">Joke</string>
+    <string name="compliment">Compliment</string>
+    <string name="conversation_starter">Conversation Starter</string>
+    
+    <!-- Animation Descriptions -->
+    <string name="animation_message_sent">Message sent animation</string>
+    <string name="animation_typing">Typing animation</string>
+    <string name="animation_connection">Connection animation</string>
+    
+    <!-- Accessibility -->
+    <string name="content_description_send_button">Send message</string>
+    <string name="content_description_scan_button">Scan for nearby peers</string>
+    <string name="content_description_settings_button">Open settings</string>
+    <string name="content_description_connection_status">Connection status indicator</string>
+    <string name="content_description_peer_avatar">Peer avatar</string>
+    
+    <!-- Security Features -->
+    <string name="enable_biometric_auth">Enable Biometric Authentication</string>
+    <string name="hide_conversations">Hide Conversations</string>
+    <string name="secure_mode">Secure Mode</string>
+    <string name="auto_delete_messages">Auto-delete Messages</string>
+    <string name="message_encryption">Message Encryption</string>
+    
+    <!-- Performance -->
+    <string name="low_power_mode">Low Power Mode</string>
+    <string name="optimize_animations">Optimize Animations</string>
+    <string name="reduce_effects">Reduce Visual Effects</string>
+    
+    <!-- About -->
+    <string name="version">Version %s</string>
+    <string name="build_date">Build Date: %s</string>
+    <string name="developer">Developed by P2P Chat Team</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="open_source_licenses">Open Source Licenses</string>
+    
+    <!-- Mood Types -->
+    <string name="mood_energetic">Energetic</string>
+    <string name="mood_calm">Calm</string>
+    <string name="mood_focused">Focused</string>
+    <string name="mood_romantic">Romantic</string>
+    <string name="mood_playful">Playful</string>
+    <string name="mood_professional">Professional</string>
+    
+    <!-- Sentiment Types -->
+    <string name="sentiment_very_positive">Very Positive</string>
+    <string name="sentiment_positive">Positive</string>
+    <string name="sentiment_neutral">Neutral</string>
+    <string name="sentiment_negative">Negative</string>
+    <string name="sentiment_very_negative">Very Negative</string>
+    
+    <!-- Connection Types -->
+    <string name="wifi_direct">WiFi Direct</string>
+    <string name="webrtc">WebRTC</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="hotspot">Mobile Hotspot</string>
+    
+    <!-- File Sharing -->
+    <string name="share_file">Share File</string>
+    <string name="receive_file">Receive File</string>
+    <string name="file_transfer_progress">Transfer Progress: %d%%</string>
+    <string name="file_transfer_complete">Transfer Complete</string>
+    <string name="file_transfer_failed">Transfer Failed</string>
+    
+    <!-- Voice Messages -->
+    <string name="record_voice_message">Record Voice Message</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="play_voice_message">Play Voice Message</string>
+    <string name="voice_message_duration">Duration: %s</string>
+    
+    <!-- Advanced Features -->
+    <string name="message_reactions">Message Reactions</string>
+    <string name="message_reply">Reply to Message</string>
+    <string name="message_forward">Forward Message</string>
+    <string name="message_delete">Delete Message</string>
+    <string name="message_edit">Edit Message</string>
+    <string name="message_copy">Copy Message</string>
+    
+    <!-- Group Chat -->
+    <string name="create_group">Create Group</string>
+    <string name="add_participants">Add Participants</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_description">Group Description</string>
+    <string name="leave_group">Leave Group</string>
+    <string name="group_admin">Group Admin</string>
+    
+    <!-- Status Messages -->
+    <string name="peer_joined">%s joined the conversation</string>
+    <string name="peer_left">%s left the conversation</string>
+    <string name="message_delivered">Delivered</string>
+    <string name="message_read">Read</string>
+    <string name="last_seen">Last seen %s</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+</resources>

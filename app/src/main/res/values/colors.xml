@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 Color System -->
+    
+    <!-- Light Theme Colors -->
+    <color name="primary_light">#6750A4</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="primary_container_light">#EADDFF</color>
+    <color name="on_primary_container_light">#21005D</color>
+    
+    <color name="secondary_light">#625B71</color>
+    <color name="on_secondary_light">#FFFFFF</color>
+    <color name="secondary_container_light">#E8DEF8</color>
+    <color name="on_secondary_container_light">#1D192B</color>
+    
+    <color name="tertiary_light">#7D5260</color>
+    <color name="on_tertiary_light">#FFFFFF</color>
+    <color name="tertiary_container_light">#FFD8E4</color>
+    <color name="on_tertiary_container_light">#31111D</color>
+    
+    <color name="error_light">#BA1A1A</color>
+    <color name="on_error_light">#FFFFFF</color>
+    <color name="error_container_light">#FFDAD6</color>
+    <color name="on_error_container_light">#410002</color>
+    
+    <color name="background_light">#FFFBFE</color>
+    <color name="on_background_light">#1C1B1F</color>
+    <color name="surface_light">#FFFBFE</color>
+    <color name="on_surface_light">#1C1B1F</color>
+    <color name="surface_variant_light">#E7E0EC</color>
+    <color name="on_surface_variant_light">#49454F</color>
+    
+    <color name="outline_light">#79747E</color>
+    <color name="outline_variant_light">#CAC4D0</color>
+    <color name="scrim_light">#000000</color>
+    <color name="inverse_surface_light">#313033</color>
+    <color name="inverse_on_surface_light">#F4EFF4</color>
+    <color name="inverse_primary_light">#D0BCFF</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#D0BCFF</color>
+    <color name="on_primary_dark">#381E72</color>
+    <color name="primary_container_dark">#4F378B</color>
+    <color name="on_primary_container_dark">#EADDFF</color>
+    
+    <color name="secondary_dark">#CCC2DC</color>
+    <color name="on_secondary_dark">#332D41</color>
+    <color name="secondary_container_dark">#4A4458</color>
+    <color name="on_secondary_container_dark">#E8DEF8</color>
+    
+    <color name="tertiary_dark">#EFB8C8</color>
+    <color name="on_tertiary_dark">#492532</color>
+    <color name="tertiary_container_dark">#633B48</color>
+    <color name="on_tertiary_container_dark">#FFD8E4</color>
+    
+    <color name="error_dark">#FFB4AB</color>
+    <color name="on_error_dark">#690005</color>
+    <color name="error_container_dark">#93000A</color>
+    <color name="on_error_container_dark">#FFDAD6</color>
+    
+    <color name="background_dark">#1C1B1F</color>
+    <color name="on_background_dark">#E6E1E5</color>
+    <color name="surface_dark">#1C1B1F</color>
+    <color name="on_surface_dark">#E6E1E5</color>
+    <color name="surface_variant_dark">#49454F</color>
+    <color name="on_surface_variant_dark">#CAC4D0</color>
+    
+    <color name="outline_dark">#938F99</color>
+    <color name="outline_variant_dark">#49454F</color>
+    <color name="scrim_dark">#000000</color>
+    <color name="inverse_surface_dark">#E6E1E5</color>
+    <color name="inverse_on_surface_dark">#313033</color>
+    <color name="inverse_primary_dark">#6750A4</color>
+    
+    <!-- Accent Colors for Dynamic Theming -->
+    <color name="accent_light">#FF6B35</color>
+    <color name="accent_dark">#FF8A65</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#1C1B1F</color>
+    <color name="text_secondary_light">#49454F</color>
+    <color name="text_primary_dark">#E6E1E5</color>
+    <color name="text_secondary_dark">#CAC4D0</color>
+    
+    <!-- Chat Bubble Colors -->
+    <color name="chat_bubble_sent">#6750A4</color>
+    <color name="chat_bubble_received">#E7E0EC</color>
+    <color name="chat_bubble_sent_dark">#D0BCFF</color>
+    <color name="chat_bubble_received_dark">#49454F</color>
+    
+    <!-- Status Colors -->
+    <color name="status_online">#4CAF50</color>
+    <color name="status_offline">#9E9E9E</color>
+    <color name="status_connecting">#FF9800</color>
+    <color name="status_error">#F44336</color>
+    
+    <!-- Mood-based Colors -->
+    <color name="mood_energetic_primary">#FF6B35</color>
+    <color name="mood_energetic_secondary">#F7931E</color>
+    <color name="mood_calm_primary">#9B59B6</color>
+    <color name="mood_calm_secondary">#8E44AD</color>
+    <color name="mood_focused_primary">#3498DB</color>
+    <color name="mood_focused_secondary">#2980B9</color>
+    <color name="mood_romantic_primary">#E91E63</color>
+    <color name="mood_romantic_secondary">#F06292</color>
+    <color name="mood_playful_primary">#FF9800</color>
+    <color name="mood_playful_secondary">#FFC107</color>
+    <color name="mood_professional_primary">#607D8B</color>
+    <color name="mood_professional_secondary">#78909C</color>
+    
+    <!-- Time-based Theme Colors -->
+    <color name="morning_primary">#FF6B35</color>
+    <color name="morning_background">#FFFEF7</color>
+    <color name="afternoon_primary">#3498DB</color>
+    <color name="afternoon_background">#FFFFFF</color>
+    <color name="evening_primary">#9B59B6</color>
+    <color name="evening_background">#F4F4F4</color>
+    <color name="night_primary">#BB86FC</color>
+    <color name="night_background">#121212</color>
+    
+    <!-- Animation Colors -->
+    <color name="ripple_color">#1A6750A4</color>
+    <color name="particle_color">#6750A4</color>
+    <color name="glow_color">#4D6750A4</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#6750A4</color>
+    <color name="gradient_end">#9B59B6</color>
+    <color name="gradient_start_dark">#D0BCFF</color>
+    <color name="gradient_end_dark">#BB86FC</color>
+    
+    <!-- Semantic Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="info">#2196F3</color>
+    <color name="danger">#F44336</color>
+    
+    <!-- Transparency Levels -->
+    <color name="black_alpha_12">#1F000000</color>
+    <color name="black_alpha_24">#3D000000</color>
+    <color name="black_alpha_36">#5C000000</color>
+    <color name="black_alpha_48">#7A000000</color>
+    <color name="black_alpha_60">#99000000</color>
+    <color name="black_alpha_72">#B8000000</color>
+    <color name="black_alpha_84">#D6000000</color>
+    
+    <color name="white_alpha_12">#1FFFFFFF</color>
+    <color name="white_alpha_24">#3DFFFFFF</color>
+    <color name="white_alpha_36">#5CFFFFFF</color>
+    <color name="white_alpha_48">#7AFFFFFF</color>
+    <color name="white_alpha_60">#99FFFFFF</color>
+    <color name="white_alpha_72">#B8FFFFFF</color>
+    <color name="white_alpha_84">#D6FFFFFF</color>
+    
+    <!-- Special Effect Colors -->
+    <color name="neon_glow">#00FFFF</color>
+    <color name="holographic">#FF00FF</color>
+    <color name="aurora_1">#FF6B6B</color>
+    <color name="aurora_2">#4ECDC4</color>
+    <color name="aurora_3">#45B7D1</color>
+    <color name="aurora_4">#96CEB4</color>
+    <color name="aurora_5">#FFEAA7</color>
+    
+    <!-- Connection Type Colors -->
+    <color name="wifi_direct_color">#2196F3</color>
+    <color name="webrtc_color">#4CAF50</color>
+    <color name="bluetooth_color">#3F51B5</color>
+    <color name="hotspot_color">#FF9800</color>
+    
+    <!-- AI Feature Colors -->
+    <color name="ai_suggestion">#9C27B0</color>
+    <color name="sentiment_positive">#4CAF50</color>
+    <color name="sentiment_negative">#F44336</color>
+    <color name="sentiment_neutral">#9E9E9E</color>
+    
+    <!-- Security Colors -->
+    <color name="encrypted">#4CAF50</color>
+    <color name="not_encrypted">#F44336</color>
+    <color name="biometric_auth">#FF9800</color>
+    
+    <!-- Legacy Support -->
+    <color name="colorPrimary">@color/primary_light</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="colorAccent">@color/accent_light</color>
+</resources>
